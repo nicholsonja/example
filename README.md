@@ -1,4 +1,4 @@
-# example
+# EXAMPLE
 
 this is a paragraph.
 
