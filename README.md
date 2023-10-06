@@ -6,7 +6,8 @@ this is a paragraph.
 * two
 * three
 
-this is a second paragraph
+this is a second paragraph.
+This is here.
 
 this is another paragraph
 
